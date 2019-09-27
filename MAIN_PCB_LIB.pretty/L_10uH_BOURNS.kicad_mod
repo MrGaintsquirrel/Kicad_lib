@@ -1,4 +1,4 @@
-(module L_10uH_BOURNS (layer F.Cu) (tedit 5D8E2946)
+(module L_10uH_BOURNS (layer F.Cu) (tedit 5D8E3105)
   (fp_text reference REF** (at -0.6223 -3.64998) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -9,4 +9,9 @@
   (fp_line (start 2.4 2.4) (end -2.4 2.4) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at 1.575 0) (size 1.98 4.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -1.575 0 180) (size 1.98 4.2) (layers F.Cu F.Paste F.Mask))
+  (model "D:/Users/Thijs/Documents/Kicad/git test/3D drawings/SRR4818A.stp"
+    (offset (xyz 0 0 1.77))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
