@@ -1,8 +1,8 @@
-(module C_0603 (layer F.Cu) (tedit 5D76A3C6)
+(module C_0603 (layer F.Cu) (tedit 5D8E280F)
   (fp_text reference REF** (at -2.45424 -1.20614) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value C_0603 (at -2.45424 -2.20614) (layer F.Fab)
+  (fp_text value C_0603 (at -2.45424 -2.20614) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.29508 -0.74746) (end -1.29508 0.75254) (layer F.SilkS) (width 0.12))

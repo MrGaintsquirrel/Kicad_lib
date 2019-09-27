@@ -1,9 +1,9 @@
-(module U_TPS6107X (layer F.Cu) (tedit 0)
+(module U_TPS6107X (layer F.Cu) (tedit 5D8E29A3)
   (attr smd)
-  (fp_text reference REF** (at -2.75 0 90) (layer F.SilkS)
+  (fp_text reference REF** (at -1.71958 -2.79654) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value U_TPS6107X (at 0 0) (layer F.Fab)
+  (fp_text value U_TPS6107X (at 0 0) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.45 0.3) (end -1.75 0) (layer F.SilkS) (width 0.12))

@@ -1,8 +1,8 @@
-(module D_RGB_LED (layer F.Cu) (tedit 5D8B414E)
-  (fp_text reference REF** (at -1.25222 -5.3674) (layer F.SilkS)
+(module D_RGB_LED (layer F.Cu) (tedit 5D8E2826)
+  (fp_text reference REF** (at -1.46304 -3.56108) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value D_RGB_LED (at -1.25222 -6.3674) (layer F.Fab)
+  (fp_text value D_RGB_LED (at -1.25222 -6.3674) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.524 -2.54254) (end 1.524 -2.54254) (layer F.SilkS) (width 0.12))

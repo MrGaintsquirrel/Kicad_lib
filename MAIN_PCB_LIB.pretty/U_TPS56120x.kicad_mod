@@ -1,8 +1,8 @@
-(module U_TPS56120x (layer F.Cu) (tedit 5D7009AF)
-  (fp_text reference REF** (at -3.74396 -0.60198) (layer F.SilkS)
+(module U_TPS56120x (layer F.Cu) (tedit 5D8E299D)
+  (fp_text reference REF** (at -0.74168 -2.69748) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value U_TPS56120x (at -0.33528 -2.63398) (layer F.Fab)
+  (fp_text value U_TPS56120x (at -0.33528 -2.63398) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.34614 -0.00762) (end -1.3462 -0.51308) (layer F.SilkS) (width 0.12))

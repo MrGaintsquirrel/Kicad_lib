@@ -1,15 +1,15 @@
-(module D_3.3V_Zener (layer F.Cu) (tedit 5D8DD068)
+(module D_3.3V_Zener (layer F.Cu) (tedit 5D8E2A62)
   (fp_text reference REF** (at -1.77546 -4.78066) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value D_3.3V_Zener (at -1.77546 -5.78066) (layer F.Fab)
+  (fp_text value D_3.3V_Zener (at -1.77546 -5.78066) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.425 0.325) (end 0.425 0.325) (layer F.SilkS) (width 0.09))
   (fp_line (start 0.425 -0.325) (end -0.425 -0.325) (layer F.SilkS) (width 0.09))
   (pad 1 smd rect (at 0.42 0) (size 0.36 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.42 0 180) (size 0.36 0.25) (layers F.Cu F.Paste F.Mask))
-  (model "D:/Users/thijsvanbovene/Documents/KiCad/library/3D drawings/ESD9B3.3ST5G.stp"
+  (model "D:/Users/Thijs/Documents/Kicad/git test/3D drawings/ESD9B3.3ST5G.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

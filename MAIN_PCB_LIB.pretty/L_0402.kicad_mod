@@ -1,5 +1,5 @@
-(module L_0402 (layer F.Cu) (tedit 5D77F7AC)
-  (fp_text reference REF** (at -5.07746 -2.16446) (layer F.SilkS)
+(module L_0402 (layer F.Cu) (tedit 5D8E2951)
+  (fp_text reference REF** (at -1.3589 -1.48336) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value L_0402 (at -5.07746 -3.16446) (layer F.Fab) hide

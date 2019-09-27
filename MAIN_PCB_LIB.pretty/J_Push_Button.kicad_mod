@@ -1,8 +1,8 @@
-(module J_Push_Button (layer F.Cu) (tedit 5D8B542A)
+(module J_Push_Button (layer F.Cu) (tedit 5D8E2AB0)
   (fp_text reference REF** (at -0.39878 -4.20662) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value J_Push_Button (at -0.39878 -5.20662) (layer F.Fab)
+  (fp_text value J_Push_Button (at -0.39878 -5.20662) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 5.82422 -3.14452) (end -5.82676 -3.1369) (layer F.SilkS) (width 0.12))
@@ -13,7 +13,7 @@
   (pad 3 smd rect (at 4.55 -2.25) (size 2.1 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -4.55 -2.25 180) (size 2.1 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -4.55 2.25 180) (size 2.1 1.4) (layers F.Cu F.Paste F.Mask))
-  (model "D:/Users/thijsvanbovene/Documents/KiCad/library/3D drawings/TL3301SPFxxxxG.stp"
+  (model "D:/Users/Thijs/Documents/Kicad/git test/3D drawings/TL3301SPFxxxxG.stp"
     (offset (xyz 0 0 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

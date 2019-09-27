@@ -1,8 +1,8 @@
-(module J_DS_LITE_P6 (layer F.Cu) (tedit 5D7B7C73)
+(module J_DS_LITE_P6 (layer F.Cu) (tedit 5D8E2866)
   (fp_text reference REF** (at -1.14046 -6.08368) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value J_DS_LITE_P6 (at -1.14046 -7.08368) (layer F.Fab)
+  (fp_text value J_DS_LITE_P6 (at -1.14046 -7.08368) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (pad 1 smd rect (at 0.725 0 90) (size 0.75 0.15) (layers F.Cu F.Paste F.Mask))
