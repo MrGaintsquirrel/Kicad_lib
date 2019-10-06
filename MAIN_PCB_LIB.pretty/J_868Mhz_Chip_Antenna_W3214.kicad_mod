@@ -1,4 +1,4 @@
-(module J_868Mhz_Chip_Antenna_W3214 (layer F.Cu) (tedit 5D8F862B)
+(module J_868Mhz_Chip_Antenna_W3214 (layer F.Cu) (tedit 5D946488)
   (fp_text reference REF** (at -4.02082 -5.3166) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -10,6 +10,11 @@
   (pad 1 smd rect (at 5.05 0) (size 1.5 2.75) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -5.05 0 180) (size 1.5 2.75) (layers F.Cu F.Paste F.Mask))
   (model "D:/Users/Thijs/Documents/Kicad/git test/3D drawings/w3214_10_3-2_5.stp"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
+  (model "D:/Users/thijsvanbovene/Documents/KiCad/Git/3D drawings/w3214_10_3-2_5.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
