@@ -1,4 +1,4 @@
-(module D_4V_ZENER (layer F.Cu) (tedit 5DC6D3C1)
+(module D_4V_ZENER (layer F.Cu) (tedit 5DD64D82)
   (fp_text reference REF** (at 0.02032 -1.52692) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -14,5 +14,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
+  )
+  (model "D:/Users/thijsvanbovene/Documents/KiCad/Git/3D drawings/DZ2S068C0L.stp"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
