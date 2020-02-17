@@ -4,4 +4,8 @@ $CMP ECS-320-10-33-AGM-TR
 F ECS INC
 $ENDCMP
 #
+$CMP U_RFM95W-868S2
+F None
+$ENDCMP
+#
 #End Doc Library
