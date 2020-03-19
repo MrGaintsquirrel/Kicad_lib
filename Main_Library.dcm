@@ -12,8 +12,16 @@ $CMP J_SD_Micro
 F Molex
 $ENDCMP
 #
+$CMP J_U.fl
+F None
+$ENDCMP
+#
 $CMP U_RFM95W-868S2
 F None
+$ENDCMP
+#
+$CMP Y_32.786khz
+F Abracon Corporation
 $ENDCMP
 #
 #End Doc Library

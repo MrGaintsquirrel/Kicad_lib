@@ -1,9 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 503182-1852
-F Molex
-$ENDCMP
-#
 $CMP ECS-320-10-33-AGM-TR
 F ECS INC
 $ENDCMP
@@ -12,8 +8,20 @@ $CMP J_Micro_Usb_B
 F Molex
 $ENDCMP
 #
+$CMP J_SD_Micro
+F Molex
+$ENDCMP
+#
+$CMP J_U.fl
+F None
+$ENDCMP
+#
 $CMP U_RFM95W-868S2
 F None
+$ENDCMP
+#
+$CMP Y_32.786khz
+F Abracon Corporation
 $ENDCMP
 #
 #End Doc Library
