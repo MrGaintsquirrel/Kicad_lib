@@ -1,4 +1,4 @@
-(module J_6_Pin_throughole_1_row_socket (layer F.Cu) (tedit 5E73A010)
+(module J_6_Pin_throughole_1_row_socket (layer F.Cu) (tedit 5F0B4E64)
   (fp_text reference REF** (at 0.29718 -8.46874) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -17,6 +17,11 @@
   (pad 1 thru_hole circle (at 0 -6.35 180) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask))
   (model "D:/Users/Thijs/Documents/Kicad/git test/3D drawings/m20-7820642_asm.stp"
     (offset (xyz 0 6.35 8.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -90))
+  )
+  (model :device1:m20-7820642_asm.stp
+    (offset (xyz 0 6.3 8.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
   )

@@ -1,4 +1,4 @@
-(module J_6_pin_thourghole_header (layer F.Cu) (tedit 5E763956)
+(module J_6_pin_thourghole_header (layer F.Cu) (tedit 5F0B5058)
   (fp_text reference REF** (at -0.0127 -4.7498) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -26,6 +26,11 @@
   (pad 2 thru_hole circle (at 1.27 -2.54) (size 1.524 1.524) (drill 0.89) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -1.27 0 180) (size 1.524 1.524) (drill 0.89) (layers *.Cu *.Mask))
   (model "D:/Users/Thijs/Documents/Kicad/git test/3D drawings/m20-7830346_asm.stp"
+    (offset (xyz 0 2.5 8.35))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
+  (model :device1:m20-7830346_asm.stp
     (offset (xyz 0 2.5 8.35))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
