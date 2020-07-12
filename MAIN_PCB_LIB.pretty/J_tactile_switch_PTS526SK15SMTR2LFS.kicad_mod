@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 (module J_tactile_switch_PTS526SK15SMTR2LFS (layer F.Cu) (tedit 5E84916B)
+=======
+(module J_tactile_switch_PTS526SK15SMTR2LFS (layer F.Cu) (tedit 5F0B4F1C)
+>>>>>>> origin/12-7-2020-right
   (fp_text reference REF** (at 0.51562 -0.37338) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -34,4 +38,12 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+<<<<<<< HEAD
+=======
+  (model :device1:PTS526_SK15_SMTR2_LFS.stp
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+>>>>>>> origin/12-7-2020-right
 )
