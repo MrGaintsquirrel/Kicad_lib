@@ -1,4 +1,4 @@
-(module C_4.7uF_1311_16V (layer F.Cu) (tedit 5E6601EF)
+(module C_4.7uF_1311_16V (layer F.Cu) (tedit 5E763A3B)
   (fp_text reference REF** (at 0.0381 -7.78548) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -9,6 +9,11 @@
   (pad 2 smd rect (at -1.335 0 180) (size 2.21 2.35) (layers F.Cu F.Paste F.Mask))
   (model "D:/Users/thijsvanbovene/Documents/KiCad/Git/3D drawings/T494B475K016AT.stp"
     (offset (xyz -1 5 -2.05))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+  (model "D:/Users/Thijs/Documents/Kicad/git test/3D drawings/T494B475K016AT.stp"
+    (offset (xyz -1 5 -2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )

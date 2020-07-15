@@ -1,4 +1,4 @@
-(module J_U.fl (layer F.Cu) (tedit 5E660C83)
+(module J_U.fl (layer F.Cu) (tedit 5E763991)
   (fp_text reference REF** (at -0.060105 -2.311695) (layer F.SilkS)
     (effects (font (size 0.801283 0.801283) (thickness 0.015)))
   )
@@ -26,5 +26,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
+  )
+  (model "D:/Users/Thijs/Documents/Kicad/git test/3D drawings/U.FL-R-SMT-1(10)--3DModel-STEP-56544.STEP"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
   )
 )
