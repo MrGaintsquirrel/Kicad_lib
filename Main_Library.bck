@@ -16,6 +16,10 @@ $CMP J_U.fl
 F None
 $ENDCMP
 #
+$CMP U_MCP7940M_SOIC-8
+D Real time clock with i2c
+$ENDCMP
+#
 $CMP U_RFM95W-868S2
 F None
 $ENDCMP
