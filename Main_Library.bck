@@ -4,6 +4,10 @@ $CMP ECS-320-10-33-AGM-TR
 F ECS INC
 $ENDCMP
 #
+$CMP IRFZ44NPBF
+F https://www.infineon.com/dgdl/irfz44npbf.pdf?fileId=5546d462533600a40153563b3a9f220d
+$ENDCMP
+#
 $CMP J_Micro_Usb_B
 F Molex
 $ENDCMP
@@ -14,6 +18,10 @@ $ENDCMP
 #
 $CMP J_U.fl
 F None
+$ENDCMP
+#
+$CMP Q_IRFZ44NPBF_N-Channel_Infineon
+F https://www.infineon.com/dgdl/irfz44npbf.pdf?fileId=5546d462533600a40153563b3a9f220d
 $ENDCMP
 #
 $CMP U_MCP7940M_SOIC-8
