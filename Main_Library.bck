@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP D_RED_0603_Wurth_150060RS75000
+F https://www.we-online.com/catalog/datasheet/150060RS75000.pdf
+$ENDCMP
+#
 $CMP ECS-320-10-33-AGM-TR
 F ECS INC
 $ENDCMP
@@ -18,6 +22,10 @@ $ENDCMP
 #
 $CMP Q_IRFZ44NPBF_N-Channel_Infineon
 F https://www.infineon.com/dgdl/irfz44npbf.pdf?fileId=5546d462533600a40153563b3a9f220d
+$ENDCMP
+#
+$CMP U_LM3914N-1_NOPB
+F http://www.ti.com/lit/ds/symlink/lm3914.pdf
 $ENDCMP
 #
 $CMP U_MCP7940M_SOIC-8
