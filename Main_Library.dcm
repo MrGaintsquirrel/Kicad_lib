@@ -24,6 +24,10 @@ $CMP Q_IRFZ44NPBF_N-Channel_Infineon
 F https://www.infineon.com/dgdl/irfz44npbf.pdf?fileId=5546d462533600a40153563b3a9f220d
 $ENDCMP
 #
+$CMP U_LM358AP_TI_DIP
+F http://www.ti.com/lit/ds/symlink/lm358a.pdf
+$ENDCMP
+#
 $CMP U_LM3914N-1_NOPB
 F http://www.ti.com/lit/ds/symlink/lm3914.pdf
 $ENDCMP
