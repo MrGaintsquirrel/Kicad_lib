@@ -1,9 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP D_RED_0603_Wurth_150060RS75000
-F https://www.we-online.com/catalog/datasheet/150060RS75000.pdf
-$ENDCMP
-#
 $CMP ECS-320-10-33-AGM-TR
 F ECS INC
 $ENDCMP

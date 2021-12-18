@@ -1,4 +1,4 @@
-(module L_RFS1113_coilcraft (layer F.Cu) (tedit 61AE8BD4)
+(module L_RFS1113_coilcraft (layer F.Cu) (tedit 61BDD9A7)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -8,4 +8,9 @@
   (fp_circle (center 0 0) (end 0.075 5.5) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole circle (at 2.5 0) (size 2.54 2.54) (drill 1.37) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.5 0) (size 2.54 2.54) (drill 1.37) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/INDRD500W80D1100H1230-480_Coilcraft_RFS1317_Series_wm.STEP
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -45))
+  )
 )
