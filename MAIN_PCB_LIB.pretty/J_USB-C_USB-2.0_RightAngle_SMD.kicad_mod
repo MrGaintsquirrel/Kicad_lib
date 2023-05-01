@@ -129,7 +129,7 @@
   (pad "B6" smd rect (at 0.750001 -3.3628) (size 0.3048 1.143) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 998e270c-b535-42db-b816-f0a5bb1369a4))
   (pad "B7" smd rect (at -0.750001 -3.3628) (size 0.3048 1.143) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4b830e08-3cfb-4df5-a327-8af32486e00e))
   (pad "B8" smd rect (at -1.749999 -3.3628) (size 0.3048 1.143) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4ccc6c40-4e4b-44cf-9c90-5f843083463a))
-  (model "${3DPARTS}/USB4110-GF-A--3DModel-STEP-269445.STEP"
+  (model "C:/KicadLib/Kicad_lib/3D drawings/USB4110-GF-A--3DModel-STEP-269445.STEP"
     (offset (xyz 0 2.29 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
