@@ -3,6 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
+	(tags "3Z_UFQFPN24_FP_V1")
 	(property "Reference" "REF**"
 		(at -0.01 -3.09 0)
 		(layer "F.SilkS")
@@ -46,6 +47,30 @@
 			(font
 				(size 1.27 1.27)
 				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacterur" "STMicroelectronics"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "081543f7-ba29-4047-9593-e42daf125638")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Footprint Code" "3Z_UFQFPN24_FP_V1"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a124635b-1137-40d2-bcdd-c72329d0d4de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 		)
 	)
@@ -531,4 +556,15 @@
 		(uuid "e3b85237-041d-42e2-9ae0-2087871fe34f")
 	)
 	(embedded_fonts no)
+	(model "${LIBRARY_STMICROELECTRONICS_DIR}/3D_Models/STM_UFQFPN24_3Z_UFQFPN24_ME_V3.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
