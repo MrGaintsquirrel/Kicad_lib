@@ -74,6 +74,18 @@
 			)
 		)
 	)
+	(property "Max. Height" "0.60mm"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ee6e5d88-3740-4fcb-a4c1-471eab1639b6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
 	(attr smd)
 	(fp_line
 		(start -2.15 -2.15)
