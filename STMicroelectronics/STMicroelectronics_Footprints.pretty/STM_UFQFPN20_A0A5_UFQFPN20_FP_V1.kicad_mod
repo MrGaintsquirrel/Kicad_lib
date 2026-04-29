@@ -95,7 +95,7 @@
 		(start -1.65 -1.65)
 		(end -1.35 -1.65)
 		(stroke
-			(width 0.1)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -105,7 +105,7 @@
 		(start -1.65 -1.34)
 		(end -1.65 -1.64)
 		(stroke
-			(width 0.1)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -115,7 +115,7 @@
 		(start -1.65 1.65)
 		(end -1.65 1.35)
 		(stroke
-			(width 0.1)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -125,7 +125,7 @@
 		(start -1.35 1.65)
 		(end -1.65 1.65)
 		(stroke
-			(width 0.1)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -135,7 +135,7 @@
 		(start 1.35 -1.65)
 		(end 1.65 -1.65)
 		(stroke
-			(width 0.1)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -145,7 +145,7 @@
 		(start 1.65 -1.65)
 		(end 1.65 -1.35)
 		(stroke
-			(width 0.1)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -155,7 +155,7 @@
 		(start 1.65 1.35)
 		(end 1.65 1.65)
 		(stroke
-			(width 0.1)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -165,7 +165,7 @@
 		(start 1.65 1.65)
 		(end 1.35 1.65)
 		(stroke
-			(width 0.1)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -372,7 +372,7 @@
 		(uuid "2e97fa95-80e6-45b4-8118-738ea94cfa02")
 	)
 	(embedded_fonts no)
-	(model "${LIBRARY_STMICROELECTRONICS_DIR}/3D_Models/STM_UFQPN20_A0A5_UFQFPN20_ME_V1.step"
+	(model "${LIBRARY_STMICROELECTRONICS_DIR}/3D_Models/STM_UFQFPN20_A0A5_UFQFPN20_ME_V1.step"
 		(offset
 			(xyz 0 0 -0)
 		)
