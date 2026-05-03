@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "U_STM_STM32C53xCxT"
+	(symbol "U_STM_STM32C5xxCxT"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -101,7 +101,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxT_1_0"
+		(symbol "U_STM_STM32C5xxCxT_1_0"
 			(pin power_in line
 				(at 0 0 0)
 				(length 5.08)
@@ -409,7 +409,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxT_1_1"
+		(symbol "U_STM_STM32C5xxCxT_1_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 45.72 -43.18)
@@ -423,7 +423,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxT_2_0"
+		(symbol "U_STM_STM32C5xxCxT_2_0"
 			(pin bidirectional line
 				(at 0 0 0)
 				(length 5.08)
@@ -713,7 +713,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxT_2_1"
+		(symbol "U_STM_STM32C5xxCxT_2_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 25.4 -40.64)
@@ -735,7 +735,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxT_3_0"
+		(symbol "U_STM_STM32C5xxCxT_3_0"
 			(pin bidirectional line
 				(at 0 0 0)
 				(length 5.08)
@@ -1007,7 +1007,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxT_3_1"
+		(symbol "U_STM_STM32C5xxCxT_3_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 25.4 -38.1)
@@ -1031,7 +1031,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "U_STM_STM32C53xCxU"
+	(symbol "U_STM_STM32C5xxCxU"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1131,7 +1131,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxU_1_0"
+		(symbol "U_STM_STM32C5xxCxU_1_0"
 			(pin power_in line
 				(at 0 0 0)
 				(length 5.08)
@@ -1457,7 +1457,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxU_1_1"
+		(symbol "U_STM_STM32C5xxCxU_1_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 45.72 -45.72)
@@ -1471,7 +1471,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxU_2_0"
+		(symbol "U_STM_STM32C5xxCxU_2_0"
 			(pin bidirectional line
 				(at 0 0 0)
 				(length 5.08)
@@ -1761,7 +1761,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxU_2_1"
+		(symbol "U_STM_STM32C5xxCxU_2_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 25.4 -40.64)
@@ -1783,7 +1783,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxU_3_0"
+		(symbol "U_STM_STM32C5xxCxU_3_0"
 			(pin bidirectional line
 				(at 0 0 0)
 				(length 5.08)
@@ -2055,7 +2055,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xCxU_3_1"
+		(symbol "U_STM_STM32C5xxCxU_3_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 25.4 -38.1)
@@ -2079,7 +2079,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "U_STM_STM32C53xExU"
+	(symbol "U_STM_STM32C5xxExU"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2171,7 +2171,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "U_STM_STM32C53xExU_1_0"
+		(symbol "U_STM_STM32C5xxExU_1_0"
 			(pin power_in line
 				(at 0 0 0)
 				(length 5.08)
@@ -2623,7 +2623,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xExU_1_1"
+		(symbol "U_STM_STM32C5xxExU_1_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 45.72 -48.26)
@@ -2639,7 +2639,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "U_STM_STM32C53xFxP"
+	(symbol "U_STM_STM32C5xxFxP"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2731,7 +2731,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "STM32C53xFxP"
+		(property "ki_keywords" "STM32C5xxFxP"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2740,7 +2740,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "U_STM_STM32C53xFxP_1_0"
+		(symbol "U_STM_STM32C5xxFxP_1_0"
 			(pin power_in line
 				(at 0 0 0)
 				(length 5.08)
@@ -3102,7 +3102,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xFxP_1_1"
+		(symbol "U_STM_STM32C5xxFxP_1_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 45.72 -35.56)
@@ -3118,7 +3118,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "U_STM_STM32C53xFxU"
+	(symbol "U_STM_STM32C5xxFxU"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3210,7 +3210,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "U_STM_STM32C53xFxU_1_0"
+		(symbol "U_STM_STM32C5xxFxU_1_0"
 			(pin power_out line
 				(at 0 0 0)
 				(length 5.08)
@@ -3572,7 +3572,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xFxU_1_1"
+		(symbol "U_STM_STM32C5xxFxU_1_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 45.72 -35.56)
@@ -3588,7 +3588,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "U_STM_STM32C53xKxT"
+	(symbol "U_STM_STM32C5xxKxT"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3680,7 +3680,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "U_STM_STM32C53xKxT_1_0"
+		(symbol "U_STM_STM32C5xxKxT_1_0"
 			(pin power_in line
 				(at 0 0 0)
 				(length 5.08)
@@ -4258,7 +4258,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xKxT_1_1"
+		(symbol "U_STM_STM32C5xxKxT_1_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 45.72 -60.96)
@@ -4274,7 +4274,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "U_STM_STM32C53xKxU"
+	(symbol "U_STM_STM32C5xxKxU"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4365,7 +4365,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "U_STM_STM32C53xKxU_1_0"
+		(symbol "U_STM_STM32C5xxKxU_1_0"
 			(pin power_in line
 				(at 0 0 0)
 				(length 5.08)
@@ -4961,7 +4961,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xKxU_1_1"
+		(symbol "U_STM_STM32C5xxKxU_1_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 45.72 -66.04)
@@ -4977,7 +4977,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "U_STM_STM32C53xRxT"
+	(symbol "U_STM_STM32C5xxRxT"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5077,7 +5077,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xRxT_1_0"
+		(symbol "U_STM_STM32C5xxRxT_1_0"
 			(pin power_in line
 				(at 0 0 0)
 				(length 5.08)
@@ -5402,8 +5402,26 @@
 					)
 				)
 			)
+			(pin bidirectional line
+				(at 50.8 -22.86 180)
+				(length 5.08)
+				(name "PD2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "54"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 		)
-		(symbol "U_STM_STM32C53xRxT_1_1"
+		(symbol "U_STM_STM32C5xxRxT_1_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 45.72 -48.26)
@@ -5417,7 +5435,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xRxT_2_0"
+		(symbol "U_STM_STM32C5xxRxT_2_0"
 			(pin bidirectional line
 				(at 0 0 0)
 				(length 5.08)
@@ -5707,7 +5725,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xRxT_2_1"
+		(symbol "U_STM_STM32C5xxRxT_2_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 25.4 -40.64)
@@ -5729,7 +5747,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xRxT_3_0"
+		(symbol "U_STM_STM32C5xxRxT_3_0"
 			(pin bidirectional line
 				(at 0 0 0)
 				(length 5.08)
@@ -6001,7 +6019,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xRxT_3_1"
+		(symbol "U_STM_STM32C5xxRxT_3_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 25.4 -38.1)
@@ -6023,7 +6041,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xRxT_4_0"
+		(symbol "U_STM_STM32C5xxRxT_4_0"
 			(pin bidirectional line
 				(at 0 0 0)
 				(length 5.08)
@@ -6277,7 +6295,7 @@
 				)
 			)
 		)
-		(symbol "U_STM_STM32C53xRxT_4_1"
+		(symbol "U_STM_STM32C5xxRxT_4_1"
 			(rectangle
 				(start 5.08 2.54)
 				(end 25.4 -35.56)
@@ -6302,7 +6320,7 @@
 		(embedded_fonts no)
 	)
 	(symbol "U_STM_STM32C531CBT6"
-		(extends "U_STM_STM32C53xCxT")
+		(extends "U_STM_STM32C5xxCxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -6401,7 +6419,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531CBU6"
-		(extends "U_STM_STM32C53xCxU")
+		(extends "U_STM_STM32C5xxCxU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -6501,7 +6519,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531CCT6"
-		(extends "U_STM_STM32C53xCxT")
+		(extends "U_STM_STM32C5xxCxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -6600,7 +6618,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531CCU6"
-		(extends "U_STM_STM32C53xCxU")
+		(extends "U_STM_STM32C5xxCxU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -6700,7 +6718,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531EBU6"
-		(extends "U_STM_STM32C53xExU")
+		(extends "U_STM_STM32C5xxExU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -6799,7 +6817,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531ECU6"
-		(extends "U_STM_STM32C53xExU")
+		(extends "U_STM_STM32C5xxExU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -6899,7 +6917,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531FBP6"
-		(extends "U_STM_STM32C53xFxP")
+		(extends "U_STM_STM32C5xxFxP")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -6999,7 +7017,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531FBU6"
-		(extends "U_STM_STM32C53xFxU")
+		(extends "U_STM_STM32C5xxFxU")
 		(property "Reference" "U"
 			(at 22.86 7.62 0)
 			(effects
@@ -7099,7 +7117,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531FCP6"
-		(extends "U_STM_STM32C53xFxP")
+		(extends "U_STM_STM32C5xxFxP")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -7199,7 +7217,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531FCU6"
-		(extends "U_STM_STM32C53xFxU")
+		(extends "U_STM_STM32C5xxFxU")
 		(property "Reference" "U"
 			(at 22.86 7.62 0)
 			(effects
@@ -7299,7 +7317,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531KBT6"
-		(extends "U_STM_STM32C53xKxT")
+		(extends "U_STM_STM32C5xxKxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -7399,7 +7417,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531KBU6"
-		(extends "U_STM_STM32C53xKxU")
+		(extends "U_STM_STM32C5xxKxU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -7498,7 +7516,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531KCT6"
-		(extends "U_STM_STM32C53xKxT")
+		(extends "U_STM_STM32C5xxKxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -7598,7 +7616,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531KCU6"
-		(extends "U_STM_STM32C53xKxU")
+		(extends "U_STM_STM32C5xxKxU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -7697,7 +7715,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531RBT6"
-		(extends "U_STM_STM32C53xRxT")
+		(extends "U_STM_STM32C5xxRxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -7797,7 +7815,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C531RCT6"
-		(extends "U_STM_STM32C53xRxT")
+		(extends "U_STM_STM32C5xxRxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -7897,7 +7915,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532CBT6"
-		(extends "U_STM_STM32C53xCxT")
+		(extends "U_STM_STM32C5xxCxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -7996,7 +8014,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532CBU6"
-		(extends "U_STM_STM32C53xCxU")
+		(extends "U_STM_STM32C5xxCxU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -8096,7 +8114,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532CCT6"
-		(extends "U_STM_STM32C53xCxT")
+		(extends "U_STM_STM32C5xxCxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -8195,7 +8213,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532CCU6"
-		(extends "U_STM_STM32C53xCxU")
+		(extends "U_STM_STM32C5xxCxU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -8295,7 +8313,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532EBU6"
-		(extends "U_STM_STM32C53xExU")
+		(extends "U_STM_STM32C5xxExU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -8394,7 +8412,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532ECU6"
-		(extends "U_STM_STM32C53xExU")
+		(extends "U_STM_STM32C5xxExU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -8493,7 +8511,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532FBP6"
-		(extends "U_STM_STM32C53xFxP")
+		(extends "U_STM_STM32C5xxFxP")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -8593,7 +8611,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532FBU6"
-		(extends "U_STM_STM32C53xFxU")
+		(extends "U_STM_STM32C5xxFxU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -8693,7 +8711,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532FCP6"
-		(extends "U_STM_STM32C53xFxP")
+		(extends "U_STM_STM32C5xxFxP")
 		(property "Reference" "U"
 			(at 2.54 5.08 0)
 			(effects
@@ -8793,7 +8811,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532FCU6"
-		(extends "U_STM_STM32C53xFxU")
+		(extends "U_STM_STM32C5xxFxU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -8893,7 +8911,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532KBT6"
-		(extends "U_STM_STM32C53xKxT")
+		(extends "U_STM_STM32C5xxKxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -8993,7 +9011,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532KBU6"
-		(extends "U_STM_STM32C53xKxU")
+		(extends "U_STM_STM32C5xxKxU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -9092,7 +9110,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532KCT6"
-		(extends "U_STM_STM32C53xKxT")
+		(extends "U_STM_STM32C5xxKxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -9192,7 +9210,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532KCU6"
-		(extends "U_STM_STM32C53xKxU")
+		(extends "U_STM_STM32C5xxKxU")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -9282,7 +9300,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532RBT6"
-		(extends "U_STM_STM32C53xRxT")
+		(extends "U_STM_STM32C5xxRxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -9382,7 +9400,7 @@
 		)
 	)
 	(symbol "U_STM_STM32C532RCT6"
-		(extends "U_STM_STM32C53xRxT")
+		(extends "U_STM_STM32C5xxRxT")
 		(property "Reference" "U"
 			(at 25.4 7.62 0)
 			(effects
@@ -9472,6 +9490,805 @@
 			)
 		)
 		(property "ki_keywords" "STM32C532RCT6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "U_STM_STM32C542CCT6"
+		(extends "U_STM_STM32C5xxCxT")
+		(property "Reference" "U"
+			(at 25.4 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "STMicroelectronics_Footprints:STM_LQFP48_5B_LQFP48_FP_V1"
+			(at 25.4 -45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacterur Part Number (MPN)" "STM32C542CCT6"
+			(at 25.4 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pin Count" "48"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Flash Memory Size" "256KB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Max. Temperature" "85"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Min. Temperature" "-40"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "STM32C542CCT6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "U_STM_STM32C542CCU6"
+		(extends "U_STM_STM32C5xxCxU")
+		(property "Reference" "U"
+			(at 25.4 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "STMicroelectronics_Footprints:STM_UFQFPN48_DT_A0B9_UFQFPN48_FP_V3"
+			(at 25.4 -48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacterur Part Number (MPN)" "STM32C542CCU6"
+			(at 25.4 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pin Count" "48"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Flash Memory Size" "256KB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Max. Temperature" "85"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Min. Temperature" "-40"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "STM32C542CCU6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "U_STM_STM32C542ECU6"
+		(extends "U_STM_STM32C5xxExU")
+		(property "Reference" "U"
+			(at 25.4 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "STMicroelectronics_Footprints:STM_UFQFN24_3Z_UFQFPN24_FP_V1"
+			(at 50.8 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacterur Part Number (MPN)" "STM32C542ECU6"
+			(at 25.4 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pin Count" "24"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Flash Memory Size" "256KB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Max. Temperature" "85"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Min. Temperature" "-40"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "STM32C542ECU6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "U_STM_STM32C542FCP6"
+		(extends "U_STM_STM32C5xxFxP")
+		(property "Reference" "U"
+			(at 25.4 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "STMicroelectronics_Footprints:STM_TSSOP20_YA_FP_V1"
+			(at 25.4 -38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacterur Part Number (MPN)" "STM32C542FCP6"
+			(at 25.4 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pin count" "20"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Flash Memory Size" "256KB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Max. Temperature" "85"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Min. Temperature" "-40"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "STM32C5xxFxP"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "U_STM_STM32C542FCU6"
+		(extends "U_STM_STM32C5xxFxU")
+		(property "Reference" "U"
+			(at 25.4 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "STMicroelectronics_Footprints:STM_UFQFPN20_A0A5_UFQFPN20_FP_V1"
+			(at 27.94 -38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacterur Part Number (MPN)" "STM32C542FCU6"
+			(at 25.4 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pin count" "20"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Flash Memory Size" "256KB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Max. Temperature" "85"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Min. Temperature" "-40"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "STM32C542FCU6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "U_STM_STM32C542KCT6"
+		(extends "U_STM_STM32C5xxKxT")
+		(property "Reference" "U"
+			(at 25.4 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "STMicroelectronics_Footprints:STM_LQFP32_5V_LQFP32_FP_V4"
+			(at 27.94 -63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacterur Part Number (MPN)" "STM32C542KCT6"
+			(at 25.4 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pin Count" "32"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Flash Memory Size" "256KB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Max. Temperature" "85"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Min. Temperature" "-40"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "STM32C542KCT6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "U_STM_STM32C542KCU6"
+		(extends "U_STM_STM32C5xxKxU")
+		(property "Reference" "U"
+			(at 25.4 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "STMicroelectronics_Footprints:STM_UFQFPN32_A0B8_UFQFPN32_FP_V1"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacterur Part Number (MPN)" "STM32C542KCU6"
+			(at 25.4 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pin Count" "32"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Flash Memory Size" "256KB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Max. Temperature" "85"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Min. Temperature" "-40"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "STM32C542KCU6"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "U_STM_STM32C542RCT6"
+		(extends "U_STM_STM32C5xxRxT")
+		(property "Reference" "U"
+			(at 25.4 7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "STMicroelectronics_Footprints:STM_LQFP64_5W_LQFP64_FP_V2"
+			(at 25.4 -50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacterur Part Number (MPN)" "STM32C542RCT6"
+			(at 25.4 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Pin Count" "64"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Flash Memory Size" "256KB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Max. Temperature" "85"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Min. Temperature" "-40"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "STM32C542RCT6"
 			(at 0 0 0)
 			(effects
 				(font
